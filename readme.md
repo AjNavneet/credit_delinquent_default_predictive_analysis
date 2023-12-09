@@ -1,4 +1,4 @@
-# Credit Delinquent/Default Preditive Analysis
+# Credit Delinquent Preditive Analysis
 
 ## Business Context
 Banks generate revenue primarily by lending money to borrowers. To maximize profits and maintain a good reputation, they need to identify borrowers who may have trouble repaying their loans. When borrowers fail to make payments, we often categorize them as "delinquent" or "defaulted."
